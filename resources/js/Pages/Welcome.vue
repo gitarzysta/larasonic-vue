@@ -204,7 +204,7 @@ const githubUrl = 'https://github.com/shipfastlabs/larasonic-vue'
         Features ✨
       </h2>
       <p class="mx-auto mt-4 max-w-2xl text-center text-muted-foreground">
-        Everything you need to ship faste to production without any hassle.
+        Everything you need to ship faster to production without any hassle.
       </p>
 
       <div class="mt-16 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
